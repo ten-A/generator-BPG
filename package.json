@@ -6,7 +6,7 @@
   "generator-core-version": "~3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomkrcha/generator-getting-started"
+    "url": "https://github.com/ten-A/generator-BPG"
   },
   "license": "MIT License",
   "readmeFilename": "README.md",
